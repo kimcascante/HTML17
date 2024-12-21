@@ -1,0 +1,23 @@
+video {
+    border: 3px solid #000;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px;
+    outline: none;
+    border-radius: 8px;
+}
+
+.controls {
+    color: #fff;
+    padding: 20px 180px;
+    display: flex;
+}
+
+.controls button {
+    background-color: brown;
+    color: white;
+    border: 5px;
+    padding: 10px 10px;
+    cursor: pointer;
+    margin: 20px;
+}
